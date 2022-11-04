@@ -13,5 +13,7 @@ module.exports = {
   plugins: ['react', 'jest'],
   rules: {
     quotes: ['warn', 'single'],
+    'import/prefer-default-export': 'off',
+    'react/jsx-filename-extension': 'off',
   },
 };
