@@ -1,3 +1,3 @@
 describe('Appointment', () => {
-  it('renders');
+  it('renders the customer first name', () => {});
 });
